@@ -1,0 +1,1 @@
+# medi_web_assets
